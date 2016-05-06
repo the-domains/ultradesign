@@ -1,0 +1,28 @@
+name: ultradesign
+favicon: null
+layout_spectrum: 0.9383704718202353
+typography_spectrum: 0.9819102422334254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9706262713298202
+  lightness: 0.39677678351290524
+  saturation: 0.10751343937590718
+  rhythmicContrast: 0.5762679630424827
+purpose: []
