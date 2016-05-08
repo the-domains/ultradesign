@@ -4,21 +4,21 @@
         <description><![CDATA[Ultra Design]]></description>
         <link>https://thegrid.ai/ultradesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 15:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 15:34:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ultradesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e89624e-b5a1-44d7-9f0a-907dc2e0945e.jpg">]]></description>
+            <link>https://thegrid.ai/ultradesign/meeting-brainstorm-concepts-graphic-experiments-deci/index.html</link>
+            <guid isPermaLink="false">53272845-1134-43da-be00-629a79f1cfd4</guid>
+            <pubDate>Sun, 08 May 2016 15:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/575ac175-9ec7-4971-a641-e71e8e320cda.jpg">]]></description>
             <link>https://thegrid.ai/ultradesign/it-is-our-pleasure-to-introduce-ultra-design-and-our-service-o/index.html</link>
             <guid isPermaLink="false">dbff6094-86a5-4e47-9eca-49ca0ca8da65</guid>
             <pubDate>Sun, 08 May 2016 15:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e89624e-b5a1-44d7-9f0a-907dc2e0945e.jpg">]]></description>
-            <link>https://thegrid.ai/ultradesign/meeting-brainstorm-concepts-graphic-experiments-deci/index.html</link>
-            <guid isPermaLink="false">53272845-1134-43da-be00-629a79f1cfd4</guid>
-            <pubDate>Fri, 06 May 2016 15:18:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
