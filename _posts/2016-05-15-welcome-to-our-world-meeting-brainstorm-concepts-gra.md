@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: WELCOME TO OUR WORLD - meeting - brainstorm - concepts - graphic experiments - decision making - fine tuning - presentation to client - (modification of some details) - validation by the client - file completion- manufacturing follow up - delivery - invoicing - check bank account - BUY COFFEE
-datePublished: '2016-05-15T14:31:17.011Z'
-dateModified: '2016-05-15T14:30:07.811Z'
+datePublished: '2016-05-15T14:35:30.239Z'
+dateModified: '2016-05-15T14:32:09.981Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-welcome-to-our-world-meeting-brainstorm-concepts-gra.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: welcome-to-our-world-meeting-brainstorm-concepts-gra/index.html
 _type: Article
 
