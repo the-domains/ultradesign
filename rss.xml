@@ -4,7 +4,7 @@
         <description><![CDATA[Ultra Design]]></description>
         <link>https://thegrid.ai/ultradesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 15:04:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 15:05:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ultradesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/ultradesign/welcome-to-our-world-meeting-brainstorm-concepts-gra/index.html</link>
             <guid isPermaLink="false">3f6d89c1-0cf9-4490-96bd-4fb68a063826</guid>
             <pubDate>Sun, 15 May 2016 15:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e0590895241202f22327de743a4be146b7ef28d.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ultradesign/3a6bb436-7f94-47c9-99cb-014b07af234f/index.html</link>
+            <guid isPermaLink="false">3a6bb436-7f94-47c9-99cb-014b07af234f</guid>
+            <pubDate>Sun, 15 May 2016 15:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9da08addc0c37cc6810dc0142137c549a10c44a.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/ultradesign/at-ultra-design-we-like-to-stay-ahead-of-the-latest-trends/index.html</link>
+            <guid isPermaLink="false">adc2c0f3-b7e7-49c8-8a36-8a5733175050</guid>
+            <pubDate>Sun, 15 May 2016 15:04:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,20 +40,6 @@
             <link>https://thegrid.ai/ultradesign/8ebb7692-fc1f-492c-a29e-181821108bed/index.html</link>
             <guid isPermaLink="false">8ebb7692-fc1f-492c-a29e-181821108bed</guid>
             <pubDate>Sun, 15 May 2016 15:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f0f5875-5d28-4ffa-8bdb-0286a95a6621.jpg">]]></description>
-            <link>https://thegrid.ai/ultradesign/3a6bb436-7f94-47c9-99cb-014b07af234f/index.html</link>
-            <guid isPermaLink="false">3a6bb436-7f94-47c9-99cb-014b07af234f</guid>
-            <pubDate>Sun, 15 May 2016 14:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0179d6a4-4380-4e4f-a533-5807c83446b0.png">]]></description>
-            <link>https://thegrid.ai/ultradesign/at-ultra-design-we-like-to-stay-ahead-of-the-latest-trends/index.html</link>
-            <guid isPermaLink="false">adc2c0f3-b7e7-49c8-8a36-8a5733175050</guid>
-            <pubDate>Sun, 15 May 2016 14:29:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
